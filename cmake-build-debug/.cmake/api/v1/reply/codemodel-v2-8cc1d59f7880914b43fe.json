@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zadaca_za_2_kolok",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_1-Debug-3f2a5bc79e93d9a6b503.json",
+					"name" : "zadaca_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_10-Debug-e09194e24e4c9ae35dec.json",
+					"name" : "zadaca_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_11-Debug-b8c4cffd6f55b7d1aeed.json",
+					"name" : "zadaca_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_12-Debug-05f57c61d542c0149978.json",
+					"name" : "zadaca_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_13-Debug-eca3f810aedf4cdc9bc1.json",
+					"name" : "zadaca_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_15-Debug-e6c8216238c7a7955f19.json",
+					"name" : "zadaca_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_17-Debug-bb6dda0c6e28cd3e539c.json",
+					"name" : "zadaca_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_3-Debug-fec8be9ba575694c37a8.json",
+					"name" : "zadaca_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_4-Debug-a7185fa644f115807ac7.json",
+					"name" : "zadaca_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_5-Debug-9d954efbe3eb4a35b975.json",
+					"name" : "zadaca_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_6-Debug-955fce2b349daf8abdfe.json",
+					"name" : "zadaca_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_7-Debug-e7362e6aefcbacc18bf7.json",
+					"name" : "zadaca_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_8-Debug-77c7f353982bfa032d75.json",
+					"name" : "zadaca_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_9-Debug-851d52a4318bf74a58e8.json",
+					"name" : "zadaca_9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadaca_za_2_kolok::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadaca_za_2_kolok-Debug-c617dfaf7915e2794142.json",
+					"name" : "zadaca_za_2_kolok",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug",
+		"source" : "C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

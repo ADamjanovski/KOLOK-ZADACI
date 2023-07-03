@@ -1,0 +1,17 @@
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_za_2_kolok.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_1.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_6.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_3.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_4.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_5.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_7.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_8.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_9.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_10.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_11.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_17.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_12.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_15.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/zadaca_13.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Desktop/Finki/oop/zadaca_za_2_kolok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
